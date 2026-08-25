@@ -57,6 +57,15 @@ I'm currently building my foundations in **full-stack development** and **data s
 
 ---
 
+## ✦ Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/charithbandi/charithbandi/output/github-contribution-grid-snake.svg)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=charithbandi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charithbandi&theme=tokyonight&hide_border=true" width="48%" />
+
 ## ✦ Let's Connect
 
 > _Add your LinkedIn or other links here, e.g.:_
